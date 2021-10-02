@@ -1,6 +1,6 @@
 
 
-  <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Deepak</h1>
+  <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Krishnakant Soni</h1>
 
   <h2 align="center" style="color:'green'"> Welcome To My Profile </h2>
   
@@ -11,25 +11,17 @@
   - 👯 I’m looking to collaborate on Node js<br>
   - 🤔 I’m looking for help with Node js<br>
   - 💬 Ask me about Anything <br>
-  - 📫 How to reach me on Instagram :-https://www.instagram.com/deepak._310/<br>
+  - 📫 How to reach me on Instagram :-https://www.instagram.com/_krishnakant_07//<br>
   - ⚡ Fun fact: Foodie love Traveling 
   </p>
 
   #👨👩 Social
  
-  [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/deepak._310/)
-  
-  [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/17017988/deepak-chouhan?tab=profile)
-  
-  [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter%20-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/Deepakc29950015)
-  <br>
-  <br>
-  [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox)
-  [<img  align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepak-chouhan-a12ab11bb/)
-  [<img align="left" alt="snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />](https://www.snapchat.com/add/blazedboy_310?share_id=ronnnF3ZPbA&locale=en-US)
+  [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_krishnakant_07/)
   
   <br>
-  <br>
+  [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/1/#inbox)
+<br>
   <h2> Skills <h2>
   <div style="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -58,7 +50,5 @@
   ## ⚡ Database
   <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   
-  <img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-   
   
 
