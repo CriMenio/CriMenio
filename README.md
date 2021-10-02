@@ -11,7 +11,7 @@
   - 👯 I’m looking to collaborate on Node js<br>
   - 🤔 I’m looking for help with Node js<br>
   - 💬 Ask me about Anything <br>
-  - 📫 How to reach me on Instagram :-https://www.instagram.com/_krishnakant_07//<br>
+  - 📫 How to reach me on Instagram :-https://www.instagram.com/_krishnakant_07/<br>
   - ⚡ Fun fact: Foodie love Traveling 
   </p>
 
@@ -19,7 +19,6 @@
  
   [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_krishnakant_07/)
   
-  <br>
   [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/1/#inbox)
 <br>
   <h2> Skills <h2>
